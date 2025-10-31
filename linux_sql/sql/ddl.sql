@@ -23,7 +23,7 @@ CREATE TABLE PUBLIC.host_usage
      cpu_idle       INT2 NOT NULL,
      cpu_kernel     INT2 NOT NULL,
      disk_io        INT4 NOT NULL,
-     disk_available INT4 NOT NULL,
+     disk_available VARCHAR NOT NULL,
      CONSTRAINT host_usage_host_info_fk FOREIGN KEY (host_id) REFERENCES
      host_info(id)
   );
