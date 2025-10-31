@@ -1,0 +1,32 @@
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Bash & Logs
+*.log
+*.tmp
+*.bak
+/tmp/
+
+# Docker & DB
+docker-data/
+pgdata/
+*.env
+*.sql
+*.db
+
+# Project outputs
+uploads/
+*.csv
+*.xlsx
+*.zip
