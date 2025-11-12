@@ -1,137 +1,77 @@
 {
   "education": [
     {
-      "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2015, 2016): Ut enim ad minim veniam",
-        "GPA: 3.8/4.0"
-      ],
-      "degree": "Bachelor of Applied Sciences",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2012-2016",
-      "school_name": "XYZ university"
-    },
-    {
       "awards_achievements": null,
-      "degree": "Master of Engineering",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2016-2018",
-      "school_name": "XYZ university"
+      "degree": "Bachelor of Applied Sciences",
+      "department": "Computer Science",
+      "duration": "2019-2024",
+      "school_name": "McMaster university"
     }
   ],
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese",
   "highlighted_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
-      "name": "Web app for resturant"
-    },
-    {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": null,
-      "name": "Machine Learning"
+      "description": "Built the backend for a campus events and marketplace application using Python's Flask framework and AWS Cloud Services. Integrated AWS Cognito for secure user authentication, DynamoDB for structured data storage, and S3 for media management. Designed RESTful APIs for posting, searching, and retrieving content, and wrote unit tests using PyTest to ensure backend reliability. Presented the working prototype at McMaster's Capstone Expo.",
+      "name": "All At Mac"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": "/linux_sql",
+      "description": "Developed a Linux-based monitoring agent using Bash to collect CPU, memory, and disk usage data from multiple nodes. Designed and deployed a Dockerized PostgreSQL database to store collected metrics and wrote SQL queries to validate and analyze resource usage. Automated data collection through cron jobs and verified reliability through manual testing. This project strengthened understanding of Linux administration, shell scripting, and containerized data management.",
+      "git_url": "https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/main/linux_sql",
       "name": "Cluster Monitor"
-    },
-    {
-      "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      ],
-      "git_url": "/core_java",
-      "name": "Core Java Apps"
-    },
-    {
-      "description": "",
-      "git_url": "/springboot",
-      "name": "Springboot App"
-    },
-    {
-      "description": "",
-      "git_url": "/python_data_anlytics",
-      "name": "Python Data Analytics"
-    },
-    {
-      "description": "",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
-    },
-    {
-      "description": "",
-      "git_url": "/spark",
-      "name": "Spark"
-    },
-    {
-      "description": "",
-      "git_url": "/cloud_devops",
-      "name": "Cloud/DevOps"
     }
   ],
   "name": "Joshua Sam Varughese",
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
-      ],
-      "title": "Certificates"
-    },
-    {
-      "bullets": [
-        "Winner"
-      ],
-      "title": "Awards"
-    },
-    {
-      "bullets": [
-        "Basketball player",
-        "Competitive gaming",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+        "Guitarist and music enthusiast",
+        "Interested in videography and photography",
+        "Contributed to branding and outreach for a healthcare-focused small business"
       ],
       "title": "Activities/Hobbies"
     }
   ],
   "professional_experience": [
     {
-      "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2020-present",
-      "title": "Software Developer"
+      "company": "Ford Motor Company",
+      "description": "Worked on the QA and automation team to maintain and improve CI/CD pipelines. Used Python and shell scripting to troubleshoot automation failures and updated Jenkins DSL configurations to restore broken test nodes. Produced detailed weekly reports summarizing test outcomes and recurring issues. Collaborated with developers and QA engineers in Agile sprints using Jira to ensure consistent test coverage and efficient release cycles.",
+      "duration": "2022-2023",
+      "title": "Software Test Automation Intern"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "company": "Jarvis",
+      "description": "Developed backend and data-engineering projects with a focus on automation, monitoring, and data processing. Worked extensively with Python, Bash, SQL, and Docker in a Linux environment to build and test backend components. Collaborated on designing reliable data pipelines and automation scripts to support performance monitoring and reporting.",
+      "duration": "2025-present",
+      "title": "Software Developer"
     }
   ],
   "skills": {
     "competent": [
-      "Donec",
-      "fermentum",
-      "Donec",
-      "fermentum",
-      "Donec"
+      "Flask",
+      "Docker",
+      "Proxmox VE",
+      "Networking",
+      "AWS Cloud Services"
     ],
     "familiar": [
-      "Donec",
-      "fermentum",
-      "fermentum",
-      "fermentum",
-      "fermentum"
+      "Java",
+      "C++",
+      "Haskell",
+      "React",
+      "Django",
+      "HTML/CSS",
+      "JavaScript"
     ],
     "proficient": [
-      "Java",
+      "Python",
       "Linux/Bash",
       "RDBMS/SQL",
       "Agile/Scrum",
-      "Git"
+      "Git",
+      "Jenkins"
     ]
   },
-  "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit."
+  "summary": "Computer Science graduate with hands-on experience in backend development, automation, and data processing. Skilled in Python, SQL, and Linux, with practical knowledge of Jenkins, Docker, and AWS from both academic and industry projects. Developed backend systems using Flask and AWS services, built monitoring tools in Linux using Bash and PostgreSQL, and contributed to automation pipelines during an internship at Ford Motors. Focused on building efficient, reliable, and well-structured backend solutions that support data-driven operations."
 }

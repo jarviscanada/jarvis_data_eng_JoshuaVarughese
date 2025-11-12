@@ -1,64 +1,39 @@
 # Joshua Sam Varughese . Jarvis Consulting
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
+Computer Science graduate with hands-on experience in backend development, automation, and data processing. Skilled in Python, SQL, and Linux, with practical knowledge of Jenkins, Docker, and AWS from both academic and industry projects. Developed backend systems using Flask and AWS services, built monitoring tools in Linux using Bash and PostgreSQL, and contributed to automation pipelines during an internship at Ford Motors. Focused on building efficient, reliable, and well-structured backend solutions that support data-driven operations.
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, Jenkins
 
-**Competent:** Donec, fermentum, Donec, fermentum, Donec
+**Competent:** Flask, Docker, Proxmox VE, Networking, AWS Cloud Services
 
-**Familiar:** Donec, fermentum, fermentum, fermentum, fermentum
+**Familiar:** Java, C++, Haskell, React, Django, HTML/CSS, JavaScript
 
 ## Jarvis Projects
 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/master/core_java)]:
-      
-  - Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-  - Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.
-
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/master/springboot)]: Not Started
-
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/master/python_data_anlytics)]: Not Started
-
-**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/master/hadoop)]: Not Started
-
-**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/master/spark)]: Not Started
-
-**Cloud/DevOps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/master/cloud_devops)]: Not Started
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/masterhttps://github.com/jarviscanada/jarvis_data_eng_JoshuaVarughese/tree/main/linux_sql)]: Developed a Linux-based monitoring agent using Bash to collect CPU, memory, and disk usage data from multiple nodes. Designed and deployed a Dockerized PostgreSQL database to store collected metrics and wrote SQL queries to validate and analyze resource usage. Automated data collection through cron jobs and verified reliability through manual testing. This project strengthened understanding of Linux administration, shell scripting, and containerized data management.
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**All At Mac**: Built the backend for a campus events and marketplace application using Python's Flask framework and AWS Cloud Services. Integrated AWS Cognito for secure user authentication, DynamoDB for structured data storage, and S3 for media management. Designed RESTful APIs for posting, searching, and retrieving content, and wrote unit tests using PyTest to ensure backend reliability. Presented the working prototype at McMaster's Capstone Expo.
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Software Test Automation Intern, Ford Motor Company (2022-2023)**: Worked on the QA and automation team to maintain and improve CI/CD pipelines. Used Python and shell scripting to troubleshoot automation failures and updated Jenkins DSL configurations to restore broken test nodes. Produced detailed weekly reports summarizing test outcomes and recurring issues. Collaborated with developers and QA engineers in Agile sprints using Jira to ensure consistent test coverage and efficient release cycles.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Software Developer, Jarvis (2025-present)**: Developed backend and data-engineering projects with a focus on automation, monitoring, and data processing. Worked extensively with Python, Bash, SQL, and Docker in a Linux environment to build and test backend components. Collaborated on designing reliable data pipelines and automation scripts to support performance monitoring and reporting.
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
-
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**McMaster university (2019-2024)**, Bachelor of Applied Sciences, Computer Science
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Guitarist and music enthusiast
+- Interested in videography and photography
+- Contributed to branding and outreach for a healthcare-focused small business
