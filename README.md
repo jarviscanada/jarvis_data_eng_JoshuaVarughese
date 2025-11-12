@@ -30,7 +30,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_JoshuaVaru
 
 
 ## Education
-**McMaster university (2019-2024)**, Bachelor of Applied Sciences, Computer Science
+**McMaster University (2019-2024)**, Bachelor of Applied Sciences, Computer Science
 
 
 ## Miscellaneous

@@ -91,7 +91,7 @@ professional_experience:
 
 #List of educuation
 education: 
-  - school_name: "McMaster university"
+  - school_name: "McMaster University"
     duration: "2019-2024"
     degree: "Bachelor of Applied Sciences"
     department: "Computer Science"
