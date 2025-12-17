@@ -22,7 +22,6 @@ __pycache__/
 docker-data/
 pgdata/
 *.env
-*.sql
 *.db
 
 # Project outputs
